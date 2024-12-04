@@ -66,6 +66,8 @@ function SuggestBook() {
   return (
     <>
       <div className="p-8 flex justify-center items-center flex-col text-white gap-2">
+        <h1 className="font-sans text-2xl">Did you miss any books ?</h1>
+        <h1>send it here so we can add it to the database</h1>
         <form onSubmit={handleSubmit(onSubmit)}>
           <div className="w-[24rem] flex flex-col gap-4">
             <Input
