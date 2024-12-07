@@ -16,7 +16,7 @@ export const Alltags = [
       { value: "star_wars", label: "Star Wars" },
       { value: "urban_fantasy", label: "Urban Fantasy" },
       { value: "anime", label: "Anime" },
-      { value: "others", label: "Others" },
+      { value: "pirate", label: "Pirate" },
     ],
   },
   {
